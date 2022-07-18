@@ -1,231 +1,183 @@
-WEBVTT
-
-1
 00:00:00.650 --> 00:00:05.810
 What's up, Life in the English family? In this episode, I'm
 going to tell you a quick story that might help you solve
 
-2
 00:00:05.840 --> 00:00:16.710
 difficult problems and learn new skills more effectively.
 Back
 
-3
 00:00:16.710 --> 00:00:23.010
 in 2020 when most of us were locked inside and scared of the
 virus, one of my friends had convinced me to try and learn
 
-4
 00:00:23.010 --> 00:00:28.760
 JavaScript. And for those of you that don't know, JavaScript
 is a programming language used to create things like
 
-5
 00:00:28.760 --> 00:00:35.660
 websites, mobile apps and games, amongst other things. But
 anyway, during the first few weeks of learning web
 
-6
 00:00:35.660 --> 00:00:43.340
 development, I was fascinated - reading, understanding, and
 writing code to communicate with the computer and make it do
 
-7
 00:00:43.340 --> 00:00:50.040
 whatever I want; it seemed like magic to me. I just love the
 fact that you could write codes to build whatever you want
 
-8
 00:00:50.100 --> 00:00:54.940
 on the internet. The same way you can use hammers and
 screwdrivers and power drills to build things in the
 
-9
 00:00:54.940 --> 00:01:03.000
 physical world. The limit is quite literally, your
 imagination. But after a month or two of learning the
 
-10
 00:01:03.000 --> 00:01:11.350
 fundamentals and working on very basic projects, things
-started to get unbelievably difficult. Functions,
+started to get unbelievably difficult. Functions
 
-11
 00:01:11.430 --> 00:01:19.590
 parameters, callbacks, promises, loops, arrays, methods, all
 of these bits of information that served very specific
 
-12
 00:01:19.710 --> 00:01:27.860
 purposes, and they needed to be chained together in order to
 create a fully functional site or application. Lots of math,
 
-13
 00:01:28.380 --> 00:01:35.600
 confusing tutorials, and documentation. I found myself going
 down rabbit hole after rabbit hole of information until I
 
-14
 00:01:35.600 --> 00:01:42.120
 got overwhelmed by it all and decided that programming just
 wasn't for me which was unfortunate because I genuinely
 
-15
 00:01:42.120 --> 00:01:48.880
 found it interesting and wanted to get better at it. What's
 cool is even though I had given up on learning web
 
-16
 00:01:48.880 --> 00:01:55.880
 development, the knowledge I had gained from that experience
 ended up helping me in ways you couldn't imagine. It's the
 
-17
 00:01:55.880 --> 00:02:02.400
 reason I was able to build my current website and make it
 function the way it does. And also because of two fantastic
 
-18
 00:02:02.400 --> 00:02:09.070
 young gentleman named Victor and Abner, shout-out to y'all,
 man, y'all are fucking amazing, and I am forever in your
 
-19
 00:02:09.070 --> 00:02:14.470
 debt! But let me get back to my story, because I really
 think it could help you to learn difficult skills in a more
 
-20
 00:02:14.470 --> 00:02:24.470
 productive and sustainable way. So fast forward to June
 22...or June 2022, that's what I meant to say, I'm back
 
-21
 00:02:24.470 --> 00:02:32.580
 to the basics of web development. HTML, CSS, and JavaScript.
 And you know what's interesting? Revisiting the basics of a
 
-22
 00:02:32.580 --> 00:02:39.220
 programming language after two years of not using it feels
 the same as revisiting the basics of a spoken language after
 
-23
 00:02:39.220 --> 00:02:45.550
 two years of not speaking it. You can understand a few
 things here and there, and a lot of words are familiar to
 
-24
 00:02:45.550 --> 00:02:51.360
 you. You start using the language again, and even though you
 don't remember everything, you're able to relearn the basics
 
-25
 00:02:51.360 --> 00:02:58.330
 very quickly, typically within a week. And since you've got
 that familiarity, you can master the fundamentals and move
 
-26
 00:02:58.330 --> 00:03:05.530
 on to more complex subjects much more quickly. So you're
 starting over, but you're not starting from zero. And I
 
-27
 00:03:05.530 --> 00:03:13.110
 don't know why, but that feels good. It's like I've been
 here before; I made my mistakes; I learned my lessons; and
 
-28
 00:03:13.110 --> 00:03:20.170
 now I get the chance to try again with a fresh mind backed
 by the memories from my last experience. I know I'm gonna
 
-29
 00:03:20.170 --> 00:03:28.020
 learn this skill if I just keep chipping away at it,
 aggressively, yet patiently. And what I mean is going hard,
 
-30
 00:03:28.260 --> 00:03:36.290
 giving it everything you've got every single day, but also
 knowing that you can't do more than that. So once you put in
 
-31
 00:03:36.290 --> 00:03:41.650
 your work for the day, you should just shut everything down,
 review what you've learned, and revisit everything the next
 
-32
 00:03:41.650 --> 00:03:48.520
 day. Because you can't build a city in a week, if you know
 what I mean. So my advice to you is to take the same
 
-33
 00:03:48.520 --> 00:03:56.560
 approach when learning any new skill, be it communicating in
 English or learning to paint, it does not matter. First of
 
-34
 00:03:56.560 --> 00:04:03.280
 all, you've got to have the right mindset. Try not to think
 in terms of days and weeks and instead think in terms of
 
-35
 00:04:03.280 --> 00:04:09.700
 months and years, because that way you can track your
 progress in a more realistic way and be patient with
 
-36
 00:04:09.700 --> 00:04:16.000
 yourself. You're simply not going to become great at
 something in three months. I don't give a fuck what anyone
 
-37
 00:04:16.000 --> 00:04:23.680
 says. Even if you're naturally gifted, you'll still have to
 practice and improve just like everyone else if you wanna be
 
-38
 00:04:23.680 --> 00:04:30.880
 the best that you can possibly be. And finally, spend the
 first few months constantly learning everything you can
 
-39
 00:04:30.880 --> 00:04:39.230
 about the fundamentals of the skill. Play around with it.
 Don't take it too seriously. Experiment. Make mistakes. Get
 
-40
 00:04:39.230 --> 00:04:45.450
 feedback. Challenge yourself. All that! And eventually,
 you're gonna get to a point where things start to get too
 
-41
 00:04:45.450 --> 00:04:55.200
 difficult and you might consider quitting. And whenever you
 reach that point, simply take a break. A long break. Don't
 
-42
 00:04:55.200 --> 00:05:03.470
 even look at the subject for a week or two, or in my case, a
 fucking year or two. Then come back to your studies with a
 
-43
 00:05:03.470 --> 00:05:11.790
 rejuvenated mind that's had the time to digest all of that
 new and interesting information. I know I talk a lot about
 
-44
 00:05:12.090 --> 00:05:20.750
 studying and practicing your English every single day until
 you can speak like a native. But we're all different and we
 
-45
 00:05:20.750 --> 00:05:29.200
 all learn in different ways. And sometimes the best way to
 learn a new skill that seems unlearnable is to stop trying
 
-46
 00:05:29.200 --> 00:05:35.960
 to force it, walk away from it for a while, and come back to
 it once you've forgotten how much it makes you cry.
